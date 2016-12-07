@@ -1,0 +1,15 @@
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\bin\Debug\WPF_Balances_Zion.exe.config
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\bin\Debug\WPF_Balances_Zion.exe
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\bin\Debug\WPF_Balances_Zion.pdb
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\App.g.cs
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion_MarkupCompile.cache
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion_MarkupCompile.lref
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion.g.resources
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion.Properties.Resources.resources
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion.csproj.GenerateResource.Cache
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion.exe
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion.pdb
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion.csproj.ResolveComReference.cache
