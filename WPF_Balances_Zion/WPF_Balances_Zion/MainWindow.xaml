@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Balances_Zion"
+        xmlns:ctrl="clr-namespace:Itenso.Windows.Controls.ListViewLayout;assembly=Itenso.Windows.Controls.ListViewLayout"
         mc:Ignorable="d"
         Title="MainWindow" Height="600" Width="800">
     <Grid>
@@ -14,12 +15,18 @@
                     <Separator/>
                 </MenuItem>
             </Menu>
-            <ListView DockPanel.Dock="Bottom" x:Name="lstvDB" ItemsSource="{Binding}">
+            <ListView DockPanel.Dock="Bottom" x:Name="lstvDB" ItemsSource="{Binding}" HorizontalAlignment="Stretch"
+                     ctrl:ListViewLayoutManager.Enabled="true">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        
+                    </DataTemplate>
+                </ListView.ItemTemplate>
                 <ListView.View>
                     <GridView>
-                        <GridViewColumn DisplayMemberBinding="{Binding Path=Name}" Header="Наименование товара" Width="500" />
-                        <GridViewColumn DisplayMemberBinding="{Binding Path=Count}" Header="На складе" />
-                        <GridViewColumn DisplayMemberBinding="{Binding Path=Current}" Header="Фактически" />
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Name}" Header="Наименование товара"  ctrl:RangeColumn.MinWidth="200" ctrl:RangeColumn.IsFillColumn="True"/>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Count}" Header="На складе" ctrl:RangeColumn.MaxWidth="50"/>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Current}" Header="Фактически" ctrl:RangeColumn.MaxWidth="50"/>
                     </GridView>
                 </ListView.View>
             </ListView>

@@ -13,3 +13,5 @@ C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_
 C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion.exe
 C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion.pdb
 C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\obj\Debug\WPF_Balances_Zion.csproj.ResolveComReference.cache
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\bin\Debug\Itenso.Windows.Controls.ListViewLayout.dll
+C:\Users\Администратор\Source\Repos\WPF_Balances_Zion\WPF_Balances_Zion\WPF_Balances_Zion\bin\Debug\Itenso.Windows.Controls.ListViewLayout.pdb
